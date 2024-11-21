@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "nombre":"Coraje el perro cobarde",
+        "categoria":"Terror",
+        "descripcion":"Perro que se asusta muy facil",
+        "fecha": "2024-11-19T06:00:00.000Z"
+    },
+    {
+        "id": 3,
+        "nombre":"Escandalosos",
+        "categoria":"Aventura",
+        "descripcion":"Tres osos hermanos",
+        "fecha":"2024-11-14T06:00:00.000Z"
+    },
+    {
+        "id":4,
+        "nombre":"Phineas y Ferb",
+        "categoria":"Comedia",
+        "descripcion": "creada por Dan Povenmire y Jeff «Swampy» Marsh",
+        "fecha":"2024-11-18T06:00:00.000Z"
+    },
+    {
+        "id":5,
+        "nombre":"Steven Universe",
+        "categoria":"Aventura",
+        "descripcion": "Steven Universe es un héroe medio humano, medio Gema.",
+        "fecha":"2024-11-19T06:00:00.000Z"
+    }
+    
+]
